@@ -7,7 +7,7 @@ __pycache__/
 
 # Virtual environment (optional but recommended)
 venv/
-.env/
+
 
 # System files
 .DS_Store
